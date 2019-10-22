@@ -32,7 +32,7 @@ public class GETExample {
         // TODO: change path to something correct
         sendGet("dkrest/test/get");
     }
-
+//hjelpme please
     /**
      * Send HTTP GET
      *
